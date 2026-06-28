@@ -29,6 +29,5 @@ public class Main {
         // Вывод пошлины
         System.out.println("Ваша таможенная пошлина: " + tax + " рублей!");
         System.out.println("Спасибо за использование нашего калькулятора!");
-        scanner.nextLine();
     }
 }
